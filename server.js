@@ -177,4 +177,4 @@ client.on("message", (message) => {
 });*/
 
 
-client.login("NzY1NzMxMDY3Mjg5NDAzNDM0.X4ZEoQ.YK1-Ltt3IrRACXc-bpKjbwKTPNY");
+client.login("token");
